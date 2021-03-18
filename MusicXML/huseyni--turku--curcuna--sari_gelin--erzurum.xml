@@ -1,0 +1,1894 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <work>
+    <work-title>Erzurum Çarşı Pazar</work-title>
+  </work>
+  <identification>
+    <creator type="composer">Faruk Kaleli</creator>
+    <creator type="poet">[Anonim]</creator>
+    <encoding>
+      <encoder>Burak Uyar</encoder>
+      <software>https://github.com/burakuyar/MusicXMLConverter</software>
+    </encoding>
+    <relation>http://musicbrainz.org/work/c4ef8e91-452a-40f1-8c2e-276af93bd142</relation>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Music</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1-0">
+      <direction placement="above">
+        <direction-type>
+          <metronome>
+            <beat-unit>quarter</beat-unit>
+            <per-minute>80</per-minute>
+          </metronome>
+        </direction-type>
+        <direction-type>
+          <words default-y="35">Makam: Hüseynî, Form: Türkü, Usul: Curcuna </words>
+        </direction-type>
+        <sound tempo="80"/>
+      </direction>
+      <attributes>
+        <divisions>96</divisions>
+        <key>
+          <key-step>B</key-step>
+          <key-alter>-2</key-alter>
+          <key-accidental>quarter-flat</key-accidental>
+          <key-step>F</key-step>
+          <key-alter>+3</key-alter>
+          <key-accidental>sharp</key-accidental>
+        </key>
+        <time>
+          <beats>10</beats>
+          <beat-type>8</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <!--symbtr_txt_note_index 2-->
+        <rest/>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 3-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>Er</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 4-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zu</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 5-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>rum </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 6-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>çar</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="2-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 7-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>şı </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 8-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>pa</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 9-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zar  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 10-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 11-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="3-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 12-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ney</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 13-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>nim_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 14-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 15-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>72</duration>
+        <type>eighth</type>
+        <dot/>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>am</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 16-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>24</duration>
+        <type>16th</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 17-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>72</duration>
+        <type>eighth</type>
+        <dot/>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 18-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>24</duration>
+        <type>16th</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 19-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 20-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 21-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="4-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 22-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ney</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 23-->
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>nim_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 24-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>am</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 25-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>72</duration>
+        <type>eighth</type>
+        <dot/>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 26-->
+        <pitch>
+          <step>B</step>
+          <alter>-0.5</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>24</duration>
+        <type>16th</type>
+        <accidental>quarter-flat</accidental>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 27-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 28-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 29-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 30-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="5-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 31-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Ney</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 32-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>nim_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 33-->
+        <pitch>
+          <step>B</step>
+          <alter>-0.5</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>am</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 34-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 35-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 36-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 37-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 38-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="6-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 39-->
+        <pitch>
+          <step>B</step>
+          <alter>-0.5</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 40-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rı </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 41-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 42-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lin  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 42-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>_</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="7-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 43-->
+        <rest/>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 44-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>İ</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 45-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>çin</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 46-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>de </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 47-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>bir </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="8-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 48-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>kız </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 49-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 50-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zer  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 51-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 52-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 53-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="9-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 54-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>Hop </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 55-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 56-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ni</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 57-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>nen_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 58-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>öl</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 59-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>sün </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="10-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 60-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 61-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rı </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 62-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 63-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 64-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>72</duration>
+        <type>eighth</type>
+        <dot/>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lin_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 65-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>24</duration>
+        <type>16th</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 66-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 67-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 68-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 69-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="11-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 70-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Sa</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 71-->
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rı </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 72-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 73-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>72</duration>
+        <type>eighth</type>
+        <dot/>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lin_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 74-->
+        <pitch>
+          <step>B</step>
+          <alter>-0.5</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>24</duration>
+        <type>16th</type>
+        <accidental>quarter-flat</accidental>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 75-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 76-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 77-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 78-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="12-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 79-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Sa</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 80-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rı </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 81-->
+        <pitch>
+          <step>B</step>
+          <alter>-0.5</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 82-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lin_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 83-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 84-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 85-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 86-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="13-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 87-->
+        <pitch>
+          <step>B</step>
+          <alter>-0.5</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>su</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 88-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>na </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 89-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>yâ</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 90-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rim  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 90-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>_</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="14-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 91-->
+        <rest/>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 92-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>İ</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 93-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>çin</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 94-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>de </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 95-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>bir </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="15-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 96-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>single</syllabic>
+          <text>kız </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 97-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 98-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>zer  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 99-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 100-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 101-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="16-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 102-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>single</syllabic>
+          <text>Hop </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 103-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 104-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ni</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 105-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>nen_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 106-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>öl</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 107-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>sün </text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="17-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 108-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>sa</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 109-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rı </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 110-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 111-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 112-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>72</duration>
+        <type>eighth</type>
+        <dot/>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lin_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 113-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>24</duration>
+        <type>16th</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 114-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 115-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 116-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 117-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="18-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 118-->
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Sa</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 119-->
+        <pitch>
+          <step>F</step>
+          <alter>+1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rı </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 120-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 121-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>72</duration>
+        <type>eighth</type>
+        <dot/>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lin_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 122-->
+        <pitch>
+          <step>B</step>
+          <alter>-0.5</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>24</duration>
+        <type>16th</type>
+        <accidental>quarter-flat</accidental>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 123-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 124-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 125-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 126-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="19-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 127-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric name="VOCAL_SECTION">
+          <syllabic>begin</syllabic>
+          <text>Sa</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 128-->
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rı </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 129-->
+        <pitch>
+          <step>B</step>
+          <alter>-0.5</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>ge</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 130-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>lin_</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 131-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>a</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 132-->
+        <grace steal-time-previous="10"/>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 133-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>man </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 134-->
+        <rest/>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <text></text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="20-0">
+      <attributes/>
+      <note>
+        <!--symbtr_txt_note_index 135-->
+        <pitch>
+          <step>B</step>
+          <alter>-0.5</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <accidental>quarter-flat</accidental>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>su</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 136-->
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <type>eighth</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>na </text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 137-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>yâ</text>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 138-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>96</duration>
+        <type>quarter</type>
+        <lyric>
+          <syllabic>end</syllabic>
+          <text>rim  </text>
+          <end-line/>
+        </lyric>
+      </note>
+      <note>
+        <!--symbtr_txt_note_index 138-->
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>144</duration>
+        <type>quarter</type>
+        <dot/>
+        <lyric>
+          <syllabic>begin</syllabic>
+          <text>_</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="21-0">
+      <attributes/>
+    </measure>
+  </part>
+</score-partwise>
