@@ -1,1 +1,7 @@
-# amplab2
+# Characterizing Intonation in Turkish Makam Music
+Complementary code for the Audio and Music Processing Lab assignment 2: Characterizing Intonation in Turkish Makam Music.  
+The notebook can be found [here](characterizing_intonation_in_turkish_makam_music.ipynb). The scores in the MusicXML folder are part of the [SymbTr](https://github.com/MTG/SymbTr) corpora.
+
+
+## Abstract
+Turkish Makam Music (TMM) compositions are performed in different pitch ranges for aesthetic reasons or for the purpose of suiting the instrumental and vocal registers of the musicians. Several possible pitch standards (described by the \textit{ahenk} system) are used in interpretation, in contrast to the Western tradition, in which typically only one pitch standard is used (e.g., A4 = 440 Hz). For this reason, the intervalic structure is fundamental for identifying makamler. Moreover, the compositions are notated in the same key for each makam, regardless of the actual pitch standard in which they might be performed. Albeit two notes might have the same notation in a score for different makamler, in practice, trained musicians will intonate the absolute intervals with subtle deviations depending on the makam. These variations are often critical for distinguishing between makamler with common scales and tonic. In this paper, we aim to provide a simple implementation for identifying and quantifying these intonation deviations between different makamler in the Dunya Corpora. As a proof of concept, we analyze the intonation deviations of the Neva and Uşşâk makamler in the aforementioned corpora.
