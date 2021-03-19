@@ -1,7 +1,7 @@
 # Characterizing Intonation in Turkish Makam Music
 Authors: **Marina Nieto** ([@marinaniet0](https://github.com/marinaniet0)) and **Teresa Pelinski** ([@pelinski](https://github.com/pelinski)).
 
-Complementary code for the 2nd Assignment of the Audio and Music Processing Lab course of the Master in Sound and Music Computing (Music Technology Group, Universitat Pompeu Fabra, Barcelona). The jupyter notebook accompanying  the submitted paper can be found [here](characterizing_intonation_in_turkish_makam_music.ipynb). The scores in the MusicXML folder are part of the [SymbTr](https://github.com/MTG/SymbTr) corpora and licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/Creative).
+Complementary code for the 2nd Assignment of the Audio and Music Processing Lab course of the Master in Sound and Music Computing (Music Technology Group, Universitat Pompeu Fabra, Barcelona). Our paper can be found [here](Characterizing-Intonation-TMM_Nieto-Pelinski.pdf), and the accompanying jupyter notebook can be found [here](characterizing_intonation_in_turkish_makam_music.ipynb). The scores in the MusicXML folder are part of the [SymbTr](https://github.com/MTG/SymbTr) corpora and licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/Creative).
 
 
 
